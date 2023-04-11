@@ -20,7 +20,7 @@ public class DemoTest {
 		
 		System.out.println("Hello from Luis espinal");
 		
-		System.out.println("Ivan Comment")
+		System.out.println("Ivan Comment");
 		
 		//NEw comment
 		
