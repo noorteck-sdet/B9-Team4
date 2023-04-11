@@ -6,9 +6,7 @@ public class DemoTest {
 		
 		System.out.println("Team...");
 		
-		//test
 		
-		/**lauren Test
-		*/
+		//test from Luis espinal
 	}
 }
