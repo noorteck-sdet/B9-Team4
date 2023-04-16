@@ -35,5 +35,7 @@ public class DemoTest {
 		
 		//Ian New Comment FromEclipse
 
+		
+		// New comment from local workspace -Vane
 }
 }
