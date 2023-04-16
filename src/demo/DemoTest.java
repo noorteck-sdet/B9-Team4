@@ -13,6 +13,7 @@ public class DemoTest {
 		
 		System.out.println("New Comment Ian");
 
+		System.out.println("Test HND");
 
 		System.out.println("Test HND");
 		
@@ -25,7 +26,6 @@ public class DemoTest {
 		System.out.println("Ivan Comment #2");
 		
 		System.out.println("Jose coding today...");
-		
 
 		
 		
